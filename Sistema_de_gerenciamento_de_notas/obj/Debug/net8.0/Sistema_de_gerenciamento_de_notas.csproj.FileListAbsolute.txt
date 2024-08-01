@@ -1,0 +1,14 @@
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\obj\Debug\net8.0\Sistema_de_gerenciamento_de_notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\obj\Debug\net8.0\Sistema_de_gerenciamento_de_notas.AssemblyInfoInputs.cache
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\obj\Debug\net8.0\Sistema_de_gerenciamento_de_notas.AssemblyInfo.cs
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\obj\Debug\net8.0\Sistema_de_gerenciamento_de_notas.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\bin\Debug\net8.0\Sistema_de_gerenciamento_de_notas.exe
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\bin\Debug\net8.0\Sistema_de_gerenciamento_de_notas.deps.json
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\bin\Debug\net8.0\Sistema_de_gerenciamento_de_notas.runtimeconfig.json
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\bin\Debug\net8.0\Sistema_de_gerenciamento_de_notas.dll
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\bin\Debug\net8.0\Sistema_de_gerenciamento_de_notas.pdb
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\obj\Debug\net8.0\Sistema_de_gerenciamento_de_notas.dll
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\obj\Debug\net8.0\refint\Sistema_de_gerenciamento_de_notas.dll
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\obj\Debug\net8.0\Sistema_de_gerenciamento_de_notas.pdb
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\obj\Debug\net8.0\Sistema_de_gerenciamento_de_notas.genruntimeconfig.cache
+C:\Users\Gustavo Pires\source\repos\Sistema_de_gerenciamento_de_notas\Sistema_de_gerenciamento_de_notas\obj\Debug\net8.0\ref\Sistema_de_gerenciamento_de_notas.dll
